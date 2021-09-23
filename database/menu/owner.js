@@ -1,6 +1,6 @@
-const owner = (prefix, ownerBot, bot) => {
+const owner = (prefix, ownerBot, botName) => {
         return `
-「 *${bot}* 」
+「 *${botName}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
