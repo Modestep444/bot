@@ -1,16 +1,16 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *NelBot By Nelson* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: Nelson Prince 
+   ○ Mi Canal YT: https://youtube.com/c/ModMaster%E3%83%84
+   ○ Instagram: https://www.instagram.com/nelsonprinceuwu/
 
 ◉ *PARA USAR EL BOT*
-Registrate con el comando ${prefix}daftar y tu nombre
+Registrate con el comando ${prefix}soy y tu nombre
 
 ◉ *NUEVOS COMANDOS*
 ○ ${prefix}banmenu
@@ -105,10 +105,10 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by nelson*_
 
 
-⌜ *ごきげんよう :)* ⌟ 
+⌜ *creditos ian y kolia :)* ⌟ 
 `
 }
 
